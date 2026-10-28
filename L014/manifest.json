@@ -1,0 +1,26 @@
+{
+  "artifact": "https://claude.ai/code/artifact/5a28a5f0-f514-4b52-9224-263bbd1c4858",
+  "title": "L014 по минутам",
+  "files": {
+    "m1.mp4": {
+      "sha256": "b24e2f54b112d66277d24b2ed31cbc6a5a848afb1a1daadd672bd5ae70b4135b",
+      "size": 10432518,
+      "sent": true
+    },
+    "m2.mp4": {
+      "sha256": "76aa6549058abd30280b4f2d4e092a51e35c5b6d8debee33699873148df2932a",
+      "size": 11152815,
+      "sent": true
+    },
+    "m3.mp4": {
+      "sha256": "00c64806aaea88b961c976e5f76f4b6fff174a8c433de2f8bf20416a6cf41579",
+      "size": 10860389,
+      "sent": true
+    },
+    "m4.mp4": {
+      "sha256": "629647d93fc148b54b491c1989abcb9b57fdb979bc35724d3a4e23d6c445dd25",
+      "size": 11085069,
+      "sent": true
+    }
+  }
+}
